@@ -1,2 +1,2 @@
 # Neshara_Core
-Un Assistant AI pour les Elites. 
+An AI specialist for everyone 
